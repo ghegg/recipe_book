@@ -14,6 +14,7 @@ A quick, configurable stir fry
 - Onions
 - Bell Peppers
 - Ginger/Garlic
+- Eggs
 - Greens
   - Bok Choy
   - Spinach
