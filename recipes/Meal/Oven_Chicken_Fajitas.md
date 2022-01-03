@@ -2,9 +2,9 @@
 title: Oven Baked Fajitas
 desc: These Easy Oven Fajitas are a simple "set it and forget it" way to get that smoky sweet flavor of traditional griddle fajitas.
 image:
-tag:
-time:
-servings:
+tag: [Dinner, Meal, Meat, Mexican]
+time: 45m
+servings: N/A
 ---
 # Oven Baked Fajitas
 These Easy Oven Fajitas are a simple "set it and forget it" way to get that smoky sweet flavor of traditional griddle fajitas.

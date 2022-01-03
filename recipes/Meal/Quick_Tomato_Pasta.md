@@ -2,7 +2,7 @@
 title: Quick Tomato Pasta
 desc: A quick, configurable tomato-based pasta dish
 image:
-tag: [Dinner, Meal, Pasta]
+tag: [Dinner, Meal, Pasta, Flexible]
 time: 20m
 servings: N/A
 ---
@@ -37,7 +37,7 @@ A quick, configurable tomato-based pasta dish
 4. Finish with Greenery
 
 ## Notes
-- 
+-
 
 ## Inspiration
 https://www.youtube.com/watch?v=UIOW18kRDEA

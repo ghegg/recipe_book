@@ -2,7 +2,7 @@
 title: Quick Noodle Stir Fry
 desc: A quick, configurable stir fry
 image:
-tag: [Dinner, Meal, Pasta, Eggs, Rice]
+tag: [Dinner, Meal, Pasta, Eggs, Rice, Flexible]
 time: 20m
 servings: N/A
 ---

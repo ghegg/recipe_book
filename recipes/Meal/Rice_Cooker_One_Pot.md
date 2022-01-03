@@ -2,7 +2,7 @@
 title: Rice Cooker One Pot
 desc: Tasty One pot meal perfect for a weeknight. Customize meat and vegetables according to your taste.
 image:
-tag: [Dinner, Meal, Rice, Meat, Vegetable]
+tag: [Dinner, Meal, Rice, Meat, Vegetable, Flexible]
 time: 40m
 servings: 4
 ---
