@@ -43,4 +43,4 @@ Savory garlic and ginger infused turkey meatballs
 - Pairs well with rice
 
 ## Inspiration
-https://www.budgetbytes.com/turkey-sriracha-meatballs/
+[Budget Bytes - Turkey Sriracha Meatballs](https://www.budgetbytes.com/turkey-sriracha-meatballs/)
