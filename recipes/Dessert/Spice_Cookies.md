@@ -4,7 +4,7 @@ desc: Homemade cookies made by the Diefenderfer/Hegg family
 image:
 tag: [Dessert, Cookie]
 time: 15m
-servings: 
+servings: 28 
 ---
 # Spice Cookies
 Homemade cookies made by the Diefenderfer/Hegg family
@@ -33,7 +33,7 @@ Homemade cookies made by the Diefenderfer/Hegg family
 5. Bake at 350&deg; for 8-10 minutes. Remove when done and wait until cooled to serve.
 
 ## Notes
-- Not sure how many cookies this makes at the moment. Update once this is learned.
+- Have been told that the cookies taste better and are softer after chilling dough over night.
 
 ## Inspiration
 - Recipe given to me by my mom (Lisa Hegg) and passed down from her mom (Peggy Anne Diefenderfer)
