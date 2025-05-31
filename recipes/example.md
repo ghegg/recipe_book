@@ -1,5 +1,5 @@
 ---
-title:
+title: 
 desc:
 image:
 tag:
@@ -7,18 +7,23 @@ time:
 servings:
 ---
 # TITLE
-Subheader
+
+Description
 
 ## Ingredients
+
 - 
 
 ## Prep
+
 - 
 
 ## Steps
+
 1. 
 
 ## Notes
+
 - 
 
 ## Inspiration
