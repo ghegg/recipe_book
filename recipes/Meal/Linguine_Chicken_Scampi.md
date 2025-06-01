@@ -41,6 +41,4 @@ servings:
 
 ## Notes
 
-- 
-
 ## Inspiration

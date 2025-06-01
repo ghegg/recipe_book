@@ -1,5 +1,11 @@
 # Project Guidelines
 
+## Task Requirements
+
+- Use the text in /recipes/cline-staging-file.md when asked to create a new recipe
+- When creating a new recipe, if the recipe already exists confirm that you should create a new one
+- After creating a new recipe using /recipes/cline-staging-file.md remove the recipe text from the file
+
 ## Recipe Requirements
 
 - New recipes should be created in the /recipes/ folder
@@ -14,6 +20,7 @@
 - Ingredients should be grouped under major components of the recipe along with other relevant ingredients
 - Ingredients should follow the syntax of "Number Measurement Ingredient". Number and Measurement is optional. Some examples: "8 oz Chicken Thighs", "1 Lemon", "3/4 cup Cream", and "2 tbsp Unsalted Butter"
 - Measurements should be lower case and abbreviated. Examples: cups, oz, tsp, tbsp, and lb
+- Ingredients should be lower case unless a proper noun
 
 ## Steps Requirements
 

@@ -34,8 +34,6 @@ servings:
 
 ## Notes
 
-- 
-
 ## Inspiration
 
 Noelle recipe card

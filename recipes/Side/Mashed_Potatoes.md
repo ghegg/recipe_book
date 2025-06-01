@@ -18,16 +18,12 @@ servings:
 
 ## Prep
 
-- 
-
 ## Steps
 
 1. Boil Potatoes, use mixer on low to smash (don't beat long)
 2. Add butter and sour cream. Season to taste.
 
 ## Notes
-
-- 
 
 ## Inspiration
 
